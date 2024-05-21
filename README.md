@@ -18,9 +18,14 @@ The project includes the following analyses and visualizations:
 6. Top 5 Bestsellers by total pizzas sold
 7. Bottom 5 Worstsellers by total pizzas sold
 
-[pizza_sales_pdf.pdf](https://github.com/nikckckcola/pizza-sales/files/15395351/pizza_sales_pdf.pdf)
+<img width="1368" alt="image" src="https://github.com/nikckckcola/pizza-sales/assets/163341543/15cf1eca-68d4-4234-be3c-cd2bccc5d248">
+
+<img width="1366" alt="image" src="https://github.com/nikckckcola/pizza-sales/assets/163341543/f40fc36b-0db9-4b97-a1f5-0bee65afe918">
+
+
 
 --------------------------
 source: https://www.youtube.com/watch?v=qmpsNMcumts&t=895s
+
 data: https://drive.google.com/drive/folders/1nz0-UYU3V1Xks3AjiqzLWwUQAFnIZaC4
 
