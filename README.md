@@ -2,7 +2,7 @@
 
 This project presents a sales data analysis for a pizzeria over an entire year, using SQL for data processing and Power BI for creating visualizations. The goal of the project is to understand sales trends, customer preferences, and product performance.
 
-Through this project, we were able to answer the following questions:
+Through this project, I was able to answer the following questions:
 1. Total revenue 
 2. Average order value 
 3. Total pizzas sold
